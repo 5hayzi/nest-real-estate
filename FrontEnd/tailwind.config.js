@@ -10,6 +10,9 @@ export default {
       fontFamily: {
         manrope : ["Manrope", "sans-serif"],
       },
+      colors:{
+        blue:"#4B53FF",
+      },
       animation:{
         blob: "blob 15s infinite",
         up: "up 4s infinite",
